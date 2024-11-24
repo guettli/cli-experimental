@@ -4,7 +4,7 @@ linkTitle: "commonAnnotations"
 type: docs
 weight: 3
 description: >
-    Add annotations to add all resources.
+    Add annotations to all resources.
 ---
 
 Add annotations to all resources.  If the annotation key already is present on the resource,
